@@ -1,0 +1,14 @@
+{
+	"geode": "4.6.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "danielbengd.mappackmenu",
+	"name": "MapPackInMenu",
+	"version": "v1.0.0",
+	"developer": "DanielBenGD",
+	"description": "Map Pack in The Menu Mod lol"
+}
