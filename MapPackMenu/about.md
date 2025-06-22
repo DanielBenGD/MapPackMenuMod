@@ -1,3 +1,3 @@
-# Template Mod
+# Map Pack Mod
 
-Edit about.md to change this
+This Mod Brings Your Fav Feature to the Menu
